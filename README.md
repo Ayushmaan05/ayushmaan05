@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/ayushmaanvaibha1">
   <img src="https://img.shields.io/badge/HackerRank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=22D3EE&labelColor=0A0A0A" alt="HackerRank"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="ayushmaansin05@email.com">
   <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0A0A0A" alt="Email"/>
 </a>
 <a href="https://github.com/Ayushmaan05">
@@ -90,7 +90,7 @@ philosophy:  Ship real products, not tutorials.
 <tr>
 <td width="50%" valign="top">
 
-### [Airbnb Clone](https://github.com/Ayushmaan05/Airbnb_Clone)
+### [Wanderlust](https://github.com/Ayushmaan05/WanderLust)
 Full-stack listing platform with auth, image uploads and CRUD flows.
 <br/>
 `Node.js` `Express` `MongoDB` `Cloudinary`
