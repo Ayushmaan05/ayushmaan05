@@ -18,10 +18,11 @@ Passionate about crafting clean user experiences, robust backend systems, and AI
 </div>
 
 <!-- ============ TYPING SVG ============ -->
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=Building+full-stack+products+that+ship;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+LangChain;3rd+Year+B.Tech+%E2%80%94+Data+Science+%26+AI" alt="typing animation" />
 </a>
-
+</div>
 <br/>
 
 <!-- ============ SOCIAL ROW ============ -->
@@ -107,6 +108,7 @@ philosophy:  Build products. Learn deeply. Stay consistent.
 Contributed to problem analysis, AI solution design, research, and technical planning for an AI-powered Digital Mental Health & Psychological Support System.
 
 🔗 **Team Repository:** https://github.com/ArshilTech/Manayaush_SIH
+<br><br>
 ## ⟡ Featured Projects
 
 <table width="100%">
