@@ -1,11 +1,25 @@
 <div align="center">
 
 <!-- ============ HERO BANNER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1030,100:0A0A0A&height=220&section=header&text=AYUSHMAAN%20VAIBHAV&fontSize=48&fontColor=E4E4E7&fontAlignY=40&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Agentic%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="header banner" />
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:312E81,60:7C3AED,100:06B6D4&text=Ayushmaan%20Vaibhav&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20in%20Progress&descAlignY=60&descSize=18&animation=fadeIn"/>
+
+<br><br>
+
+<h3>
+Building scalable Full Stack applications while exploring AI, LLMs, and intelligent agent systems.
+</h3>
+
+<p>
+Passionate about crafting clean user experiences, robust backend systems, and AI-powered solutions that solve real-world problems.
+</p>
+
+</div>
 
 <!-- ============ TYPING SVG ============ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=Building+full-stack+products+that+ship;Designing+agentic+AI+%2F+LLM+systems;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+LangChain;3rd+Year+B.Tech+%E2%80%94+Data+Science+%26+AI" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=Building+full-stack+products+that+ship;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+LangChain;3rd+Year+B.Tech+%E2%80%94+Data+Science+%26+AI" alt="typing animation" />
 </a>
 
 <br/>
@@ -17,7 +31,7 @@
 <a href="https://www.hackerrank.com/ayushmaanvaibha1">
   <img src="https://img.shields.io/badge/HackerRank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=22D3EE&labelColor=0A0A0A" alt="HackerRank"/>
 </a>
-<a href="ayushmaansin05@email.com">
+<a href="mailto:ayushmaansin05@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0A0A0A" alt="Email"/>
 </a>
 <a href="https://github.com/Ayushmaan05">
@@ -36,10 +50,10 @@
 ## ⟡ About
 
 ```yaml
-role:        Full Stack Web Developer / AI & Agentic AI Enthusiast
+role:        Full Stack Developer · AI Engineer in Progress
 education:   B.Tech, Computer Science (Data Science & AI) — 3rd Year
-focus:       Backend Engineering · LLMs · Automation · Advanced React
-philosophy:  Ship real products, not tutorials.
+focus:       Backend Engineering · Automation · React
+philosophy:  Build products. Learn deeply. Stay consistent.
 ```
 
 <br/>
@@ -57,48 +71,57 @@ philosophy:  Ship real products, not tutorials.
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
 
 </td>
 <td width="50%" valign="top">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=c,js,py,cpp&theme=dark" /> &nbsp;
 <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=A78BFA" height="48"/>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,render&theme=dark" />
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-**Currently learning** → `Next.js` `TypeScript` `LangChain` `RAG` `AI Agents` `LLM Engineering`
-
-</div>
 
 <br/>
 
 <!-- ============ FEATURED PROJECTS ============ -->
+
+
+## 🏆 Achievements
+
+### 🥇 Smart India Hackathon (SIH) 2025 – Internal Hackathon Winner
+
+**Team:** CODEVATIVE  
+**Organization:** Integral University
+
+**Role:** AI Researcher & Solution Designer
+
+Contributed to problem analysis, AI solution design, research, and technical planning for an AI-powered Digital Mental Health & Psychological Support System.
+
+🔗 **Team Repository:** https://github.com/ArshilTech/Manayaush_SIH
 ## ⟡ Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
+<br>
 ### [Wanderlust](https://github.com/Ayushmaan05/WanderLust)
-Full-stack listing platform with auth, image uploads and CRUD flows.
+Airbnb-inspired travel listing platform with authentication, reviews, cloud image uploads, interactive maps, and full CRUD functionality.
 <br/>
 `Node.js` `Express` `MongoDB` `Cloudinary`
 
 </td>
 <td width="50%" valign="top">
 
-### [AI Multi-Agent Report Generator](https://github.com/Ayushmaan05/ai-report-generator)
+### [AI Multi-Agent Report Generator](https://github.com/Ayushmaan05/insightswarm-sipher-capstone)
 Multi-agent pipeline that researches, drafts and formats reports autonomously.
 <br/>
 `Python` `LangChain` `LLM Agents`
@@ -125,23 +148,12 @@ Exploratory data analysis on festive-season retail sales data.
 </tr>
 </table>
 
-<div align="center"><sub>Swap in your real repo URLs where they differ — see the notes below the README.</sub></div>
-
 <br/>
 
 <!-- ============ GITHUB STATS ============ -->
 ## ⟡ Metrics
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushmaan05&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=A78BFA&icon_color=22D3EE&text_color=E4E4E7&ring_color=A78BFA" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmaan05&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=A78BFA&text_color=E4E4E7&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Ayushmaan05&hide_border=true&background=0A0A0A&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=E4E4E7&sideNums=E4E4E7&dates=6B7280" alt="GitHub Streak"/>
-
-<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushmaan05&theme=react-dark&bg_color=0A0A0A&color=A78BFA&line=22D3EE&point=E4E4E7&hide_border=true" alt="Contribution Graph"/>
 
@@ -156,7 +168,7 @@ Exploratory data analysis on festive-season retail sales data.
   <img src="https://raw.githubusercontent.com/Ayushmaan05/Ayushmaan05/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </div>
 
-<sub align="center">Generated automatically every day — set up the GitHub Action below once.</sub>
+
 
 <br/>
 
@@ -176,14 +188,12 @@ Exploratory data analysis on festive-season retail sales data.
 
 ### ⟡ Fun Facts
 - 🧠 Prototyping an AI agent before writing the README for it
-- ⚡ Debugs faster with lo-fi playing in the background
 - 🌱 One real project taught more than five courses
 
 </td>
 <td width="50%" valign="top">
 
 ### ⟡ Open Source Goals
-- 🔓 Ship my first accepted PR to a public LLM tooling repo
 - 📦 Open-source the multi-agent report generator
 - 🤝 Pair on a backend or AI infra issue with a maintainer
 
@@ -201,7 +211,10 @@ Exploratory data analysis on festive-season retail sales data.
 <a href="https://linkedin.com/in/ayushmaan05">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="https://instagram.com/iayushmaan.__">
+  <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:ayushmaansin@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email"/>
 </a>
 
@@ -209,6 +222,6 @@ Exploratory data analysis on festive-season retail sales data.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1030,100:0A0A0A&height=120&section=footer" alt="footer wave"/>
 
-<sub>© 2026 Ayushmaan Vaibhav — crafted with intent, not templates.</sub>
+<sub>© 2026 Ayushmaan Vaibhav — Always Building • Always Learning • Always Improving</sub>
 
 </div>
