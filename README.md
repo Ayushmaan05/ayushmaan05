@@ -110,11 +110,10 @@ Contributed to problem analysis, AI solution design, research, and technical pla
 🔗 **Team Repository:** https://github.com/ArshilTech/Manayaush_SIH
 <br><br>
 ## ⟡ Featured Projects
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<br>
+
 ### [Wanderlust](https://github.com/Ayushmaan05/WanderLust)
 Airbnb-inspired travel listing platform with authentication, reviews, cloud image uploads, interactive maps, and full CRUD functionality.
 <br/>
@@ -149,7 +148,6 @@ Exploratory data analysis on festive-season retail sales data.
 </td>
 </tr>
 </table>
-
 <br/>
 
 <!-- ============ GITHUB STATS ============ -->
